@@ -1,16 +1,43 @@
-## Hi there 👋
+## Olá eu sou Fabio
 
-<!--
-**fabiovazsousa/fabiovazsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudo sobre Qualidade de software
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formação em Educação Física e Análise e Desenvolvimento de Sistemas. Especialista em Qualidade de Software.
+
+
+
+Testes Manuais Postman e testes automatizados com Cypress.
+
+
+
+O perigo de verdade não é que computadores passem a pensar como humanos, mas sim que humanos passem a pensar como computadores”. Sydney Harris.
+
+
+
+<br>
+
+## **SKILLS**
+
+<br>
+
+### Frameworks
+
+---
+
+https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
+
+https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white
+
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+
+<br>
+
+
+
+### Linguagem de programação
+
+---
+
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
