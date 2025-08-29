@@ -40,4 +40,4 @@ O perigo de verdade não é que computadores passem a pensar como humanos, mas s
 
 ---
 
-[1[JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
