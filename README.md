@@ -8,7 +8,7 @@ Formação em Educação Física e Análise e Desenvolvimento de Sistemas. Espec
 
 
 
-Testes Manuais Postman e testes automatizados com Cypress.
+Testes Manuais, testes de API com Postman e testes automatizados com Cypress.
 
 
 
