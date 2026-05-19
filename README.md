@@ -1,43 +1,49 @@
-## Olá eu sou Fabio
+## Olá, eu sou o Fabio! 👋
 
-### Estudo sobre Qualidade de software
+### Analista de Dados | ADS | Estudante de Ciências Contábeis
 
-<br>
-
-Formação em Educação Física e Análise e Desenvolvimento de Sistemas. Especialista em Qualidade de Software.
-
-
-
-Testes Manuais, testes de API com Postman e testes automatizados com Cypress.
-
-
-
-O perigo de verdade não é que computadores passem a pensar como humanos, mas sim que humanos passem a pensar como computadores”. Sydney Harris.
-
-
-
-<br>
-
-## **SKILLS**
-
-<br>
-
-### Frameworks
+Apaixonado por transformar dados em insights estratégicos, combinando tecnologia, análise e conhecimentos contábeis/financeiros.
 
 ---
 
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
-
-[![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)]()
-
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-
-<br>
-
-
-
-### Linguagem de programação
+### 📚 Formação
+- **Análise e Desenvolvimento de Sistemas** — Graduado
+- **Ciências Contábeis** — Cursando
 
 ---
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+### 🛠️ Skills
+
+**Linguagens & Bancos**
+- Python
+- SQL
+- Excel 
+
+**Business Intelligence & Visualização**
+- Power BI (em aprendizado) 
+
+**Outros**
+- Análise Financeira
+- ETL
+- Estatística Básica
+- Git & GitHub
+
+---
+
+### 🎯 Objetivo Atual
+Desenvolver soluções de dados com foco em **Business Intelligence**, **Análise Financeira** e **Contabilidade Digital**.
+
+---
+
+> “The goal is to turn data into information, and information into insight.” — Carly Fiorina
+
+---
+
+### 📫 Contato
+- LinkedIn: (https://www.linkedin.com/in/fabio-vaz-sousa-154100246/)
+- Email: vazprobr@gmail.com
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-vaz-sousa-154100246/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/fabiovazsousa)
