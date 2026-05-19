@@ -2,7 +2,7 @@
 
 ### Analista de Dados | ADS | Estudante de Ciências Contábeis
 
-Apaixonado por transformar dados em insights estratégicos, combinando tecnologia, análise e conhecimentos contábeis/financeiros.
+Meu objetivo é transformar dados em insights estratégicos, combinando tecnologia, análise e conhecimentos contábeis/financeiros.
 
 ---
 
