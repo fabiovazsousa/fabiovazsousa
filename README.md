@@ -20,7 +20,7 @@ Meu objetivo é transformar dados em insights estratégicos, combinando tecnolog
 - Excel 
 
 **Business Intelligence & Visualização**
-- Power BI (em aprendizado) 
+- Power BI 
 
 **Outros**
 - Análise Financeira
