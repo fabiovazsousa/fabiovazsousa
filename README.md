@@ -8,6 +8,7 @@ Meu objetivo é transformar dados em insights estratégicos, combinando tecnolog
 
 ### 📚 Formação
 - **Análise e Desenvolvimento de Sistemas** — Graduado
+- **Pós graduado em Análise de Dados**
 - **Ciências Contábeis** — Cursando
 
 ---
